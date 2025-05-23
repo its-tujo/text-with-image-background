@@ -1,12 +1,12 @@
 <h1 align="center" id="title">Text with Image Background</h1>
 
-<p align="center"><img src="https://socialify.git.ci/the13joker1/text-with-image-background/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/its-tujo/text-with-image-background/image?description=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <p id="description">A text wich has an Image Background</p>
 
 <h2>🚀 Demo</h2>
 
-[https://the13joker1.github.io/text-with-image-background/](https://the13joker1.github.io/text-with-image-background/)
+[https://its-tujo.github.io/text-with-image-background/](https://its-tujo.github.io/text-with-image-background/)
 
   
   
