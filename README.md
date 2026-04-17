@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://its-tujo.github.io/text-with-image-background/](https://its-tujo.github.io/text-with-image-background/)
+[[https://its-tujo.github.io/text-with-image-background/](https://tujo.is-cool.dev/text-with-image-background/)]
 
   
   
